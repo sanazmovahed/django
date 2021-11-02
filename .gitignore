@@ -13,3 +13,9 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+
+*.log
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
